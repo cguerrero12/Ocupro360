@@ -30,7 +30,6 @@
 - Planes
 - Capacitaciones
 - Señalización
-- Sistemas contra incendios
 - Ambiental
 - Programas y sistemas de gestión
 
