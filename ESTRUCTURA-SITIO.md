@@ -75,5 +75,5 @@
 ## Contáctenos
 
 - Teléfono y WhatsApp: 8425-4134
-- Correos electrónicos: asalazar@ocupro360cr.com y Servicioalcliente@ocupo360cr.com
+- Correos electrónicos: asalazar@ocupro360cr.com y servicioalcliente@ocupro360cr.com
 - Ubicación, horario y formulario pendientes de confirmación
