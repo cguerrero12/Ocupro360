@@ -809,6 +809,10 @@ h3 {
   background: var(--white);
 }
 
+.detail-card-wide {
+  grid-column: 1 / -1;
+}
+
 .detail-card.featured {
   color: var(--white);
   background: var(--blue-dark);

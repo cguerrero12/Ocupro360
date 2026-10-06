@@ -38,7 +38,6 @@
 - Venta de equipos
   - Página independiente de equipos para primeros auxilios
   - Página independiente de extintores
-  - Sistemas contra incendios (contenido pendiente para una etapa posterior)
   - Página independiente de señalización preventiva, de prohibición, informativa y de evacuación
 - Asesorías
   - Salud Ocupacional y Seguridad
